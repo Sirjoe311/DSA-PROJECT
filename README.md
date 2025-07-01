@@ -1,5 +1,5 @@
 # DSA-PROJECT
-Hi, I am Jonathan Okhunhun.
+Hi, I am Jonathan Omhans Okhunhun.
 I am currentely taking a course in Data Analysis which inclide; Ms Excel, SQL, and PowerBi.
 This project was undertaken as a part of the requirements for certification in Foundation of Reporting with Micro Soft Excel.
 It is one task amongst many others that I have undertaken to Show that I have a good foundational knowledge in Data Analysis.
