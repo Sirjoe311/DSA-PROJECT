@@ -11,3 +11,6 @@ Constructive criticism of the project, meaningful contribution, and sincere comm
 ### OBJECTIVE
 The objective of the analysis is to assess the company’s sales performance with respect to product categories and regions.
 Also to provide useful insights and findings to support management decision in expanding revenue and customer base.
+
+### ANALYSIS AND DOCUMENTATION
+The data used, detailed analysis and documentation works are available as downloadable files on the repository.
