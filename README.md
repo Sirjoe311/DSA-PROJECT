@@ -17,7 +17,7 @@ Also to provide useful insights and findings to support management decision in e
 The data used, detailed analysis and documentation works covering the query codes used, results obtained and other findings are available as downloadable files on the repository.
 
 ### CONCLUSION
-Due care and deligence were put into the analysis to ensure that it is error-free and that it is a true representation of performance and state of affiars at Kultra Mega Store (KMS).
+Due care and deligence were put into the analysis to ensure that it is error-free and that it is a true representation of performance and state of affiars at Kultra Mega Store (KMS) during the relevant period 2009 - 2012 as required.
 However, that is not to say that the work is perferct. Therefore, constructive criticism of the project, meaningful contribution, and sincere commendation are welcome.
 
 ### CONTACT
