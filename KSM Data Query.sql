@@ -99,9 +99,24 @@ Select * from inventory
 
 10.------Customers that return items and their segments------
 
-Select Distinct Customer_Name,Customer_Segment
-From [dbo].[Inventory],[dbo].[Order_Status]
-where Order_Status.Status = 'Returned'
+Select Distinct
+Inventory.Order_ID,
+Inventory.Customer_Name,
+Inventory.Customer_Segment
+From inventory	
+Join Order_status
+ON Inventory.Order_ID = Order_Status.Order_ID
+Where Order_status.Status = 'Returned'
+
+--OR---
+
+Select Distinct o.order_ID,o.Customer_Name,o.Customer_Segment
+From [dbo].[Inventory]o
+Join [dbo].[Order_Status]r
+on o.Order_ID = r.Order_ID
+where r.Status = 'Returned'
+
+
 
 
 -----OTHERES----
@@ -118,6 +133,15 @@ From inventory
 Left Join Order_status
 ON Inventory.Order_ID = Order_Status.Order_ID;
 
+
+Select Distinct
+Inventory.Order_ID,
+Inventory.Customer_Name,
+Inventory.Customer_Segment
+From inventory	
+Join Order_status
+ON Inventory.Order_ID = Order_Status.Order_ID
+Where Order_status.Status = 'Returned'
 
 
 
