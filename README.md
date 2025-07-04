@@ -15,9 +15,25 @@ Also to provide useful insights and findings to support management decision in e
 
 ### ANALYSIS AND DOCUMENTATION
 The data used, detailed analysis and documentation works covering the query codes used, results obtained and other findings are available as downloadable files on the repository.
-![image](https://github.com/user-attachments/assets/77aadcde-63f3-446d-829a-0200e4278bc2)
-![image](https://github.com/user-attachments/assets/f3412553-4dcd-467b-9c62-39f4abab0612)
 
+For instance, see the query codes used and the results obtained;
+
+![image](https://github.com/user-attachments/assets/a382463b-b1fe-4442-a654-e9fb46c24559),  ![image](https://github.com/user-attachments/assets/efa98078-f40e-4e3f-82f8-651422883963)
+
+![image](https://github.com/user-attachments/assets/e59d13ba-1917-4711-893d-ddea77d36d8e),  ![image](https://github.com/user-attachments/assets/d2162895-3741-423c-a6a3-010fbbd8b3a2)
+
+### SKILLS AND COMPETENCIES
+The skills and competencies demonstrated through the analysis include;
+
+Analytical skill ie the ability to process data and derive useful insights for decision making.
+
+Database query skill ie the ability to fetch useful and required information from database using SQL
+
+Database Management Skills ie the ability to administer a database by performing functions like; creating Database, creating, truncating, altering, deleting of Tables, etc 
+
+Data transforming/cleaning skill ie the ability to correct errors or inconsistence in dataset, removed non-relevant info, and extract only relevant information in a given dataset.
+
+Visualisation skill ie the ability to use diagrams like Charts, Cards, Maps etc to communicate information in a clear, simple and summarised format.
 
 ### CONCLUSION
 Due care and deligence were put into the analysis to ensure that it is error-free and that it is a true representation of performance and state of affiars at Kultra Mega Store (KMS) during the relevant period 2009 - 2012 as required.
