@@ -33,8 +33,6 @@ Database Management Skills ie the ability to administer a database by performing
 
 Data transforming/cleaning skill ie the ability to correct errors or inconsistence in dataset, removed non-relevant info, and extract only relevant information in a given dataset.
 
-Visualisation skill ie the ability to use diagrams like Charts, Cards, Maps etc to communicate information in a clear, simple and summarised format.
-
 ### CONCLUSION
 Due care and deligence were put into the analysis to ensure that it is error-free and that it is a true representation of performance and state of affiars at Kultra Mega Store (KMS) during the relevant period 2009 - 2012 as required.
 However, that is not to say that the work is perferct. Therefore, constructive criticism of the project, meaningful contribution, and sincere commendation are welcome.
