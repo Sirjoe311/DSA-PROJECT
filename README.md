@@ -15,6 +15,9 @@ Also to provide useful insights and findings to support management decision in e
 
 ### ANALYSIS AND DOCUMENTATION
 The data used, detailed analysis and documentation works covering the query codes used, results obtained and other findings are available as downloadable files on the repository.
+![image](https://github.com/user-attachments/assets/77aadcde-63f3-446d-829a-0200e4278bc2)
+![image](https://github.com/user-attachments/assets/f3412553-4dcd-467b-9c62-39f4abab0612)
+
 
 ### CONCLUSION
 Due care and deligence were put into the analysis to ensure that it is error-free and that it is a true representation of performance and state of affiars at Kultra Mega Store (KMS) during the relevant period 2009 - 2012 as required.
